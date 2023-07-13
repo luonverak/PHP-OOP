@@ -1,0 +1,22 @@
+class class-name{
+    data field;
+    method member;
+}object;
+
+oop 3concept{
+    -encab{
+        public
+        private
+        protected
+    }
+    -abstraction{
+        single class
+    }
+    -inheritance{
+        relationship class
+    }
+    -poly{
+        overloading
+        overiding
+    }
+}
